@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1565808199 source:c:\users\felix\documents\cprogramms\trainingfunktion\main.c
+	<stdio.h>
+	<stdlib.h>
+
